@@ -1,1 +1,15 @@
 One man's urgency is another man's oblivion.
+
+geo-fame. A series of photos:
+
+- take/edit a photo of a popular location
+  - define popular: indie spots with artsy crowds, cult restrarants, cultural outings at contemporary art institutions
+- post with a geotag
+
+After the fame is achieved, start img-empathy. A series of photos:
+
+- take/edit a photo of a contested situation
+  - define contested: poverty, illness, homelessness, fights, gangs, crimes
+- post with a consistent caption: "here"
+
+TBC
