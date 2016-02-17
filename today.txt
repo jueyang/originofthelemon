@@ -1,5 +1,7 @@
 One man's urgency is another man's oblivion.
 
+---
+
 geo-fame. A series of photos:
 
 - take/edit a photo of a popular location
@@ -11,5 +13,15 @@ After the fame is achieved, start img-empathy. A series of photos:
 - take/edit a photo of a contested situation
   - define contested: poverty, illness, homelessness, fights, gangs, crimes
 - post with a consistent caption: "here"
+
+---
+
+Can the present emphasize with the past? Artifacts, when do they matter? d-i-g-i-t-a-l artifacts, what is the purpose other than a slight, sweet reminiscence?
+
+provoked: https://github.com/ca98am79/my-first-programs (especially re: diary)
+
+---
+
+The separation of presentation and content is "a specific instance of the more general philosophy, separation of concerns." Concerns I thought belonged to a worried mom -- at least the image of her shadow. No, it turned out, it is just a way of organizing information, more or less formalized. The rationalized world we build to, what, make sense of and among ourselves. Or is it to illude.
 
 TBC
